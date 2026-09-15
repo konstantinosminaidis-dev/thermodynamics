@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Θερμοδυναμική — Κεφάλαιο 1",
+      "hasCanvas": false,
+      "bodyTextLen": 1182,
+      "bodyTextHash": "48fd958f7c3518a102c02a88dae26371b72f97878e110eb3ad06a731fecd47a8",
+      "bodyTextPrefix": "Μετάβαση στο περιεχόμενο Θερμοδυναμική Κεφάλαιο 1 · Βασικές έννο",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Θερμοδυναμική — Κεφάλαιο 1",
+      "hasCanvas": false,
+      "bodyTextLen": 982,
+      "bodyTextHash": "f204cb2059b135310b231be8f2fbd4b4f6cc67c58f4ac395c5335c91e2225c22",
+      "bodyTextPrefix": "Μετάβαση στο περιεχόμενο Θερμοδυναμική Κεφ. 1 ΕΙΣΑΓΩΓΗ ΣΤΗ ΜΗΧΑΝ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
